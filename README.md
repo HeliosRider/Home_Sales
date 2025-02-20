@@ -2,7 +2,7 @@
 
 ## Task
 
-    - Using SparkSQL, the analyst will to determine key metrics about the given home sales data 
+    - Using SparkSQL, the analyst will determine key metrics of the given home sales data 
    
     - Use Spark to:
 
